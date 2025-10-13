@@ -122,8 +122,6 @@ cd vortex-game
 |:--:|
 | ![image](images/3_game_over_screen.png) |
 
-While twin-stick shooters like Shapefighter exist, Vortex's Navier-Stokes fluid mechanics add a physics-based layer absent in most, enabling current-based tactics.
-
 ## Dependencies
 
 - electron>=28.0.0
