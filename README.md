@@ -184,5 +184,5 @@ This project is licensed under the GNU Affero General Public License v3.0 - see 
 
 ## Note
 
-| AI was used to generate the entire codebase and documentation in a single attempt. |
+| AI was used to design the codebase and the generate the README.md of the project. |
 |:--:|
